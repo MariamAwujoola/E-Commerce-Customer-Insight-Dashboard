@@ -48,7 +48,9 @@ Insight - The purchase group are divided in 3 using their prior purchases
 
   #### Average Product Cost by Level of Importance
 ![Screenshot 2025-04-14 134605](https://github.com/user-attachments/assets/279c73c0-fbef-4aa8-a0c1-9f7e4d1cb61d)
-  Average Costs:
+  
+  
+Average Costs:
 - Low: $212.06
 - Medium: $209.38
 - High: $203.87
@@ -95,4 +97,24 @@ Despite handling the heaviest shipments (27M grams), the Ship mode shows better 
 - Calls are split 50/50 between resolved and unresolved
 - Insight: Equal distribution suggests a need for better resolution handling.
 
-  
+#### Order Distribution by Shipping Mode
+![Screenshot 2025-04-14 134741](https://github.com/user-attachments/assets/6ab1a233-da1d-4f18-b9ee-fe7bc5b3904e)
+
+Insight: The majority of orders (67.84%) were delivered via Ship, making it the most preferred shipping method. Interestingly, despite handling the highest volume and heaviest products, Ship has better on-time performance compared to Flight and Road, each accounting for 16% of orders but showing higher delay rates.
+This suggests that volume alone isn't the main cause of delays — operational efficiency plays a more critical role.
+
+
+#### Discount Offered by Customer Ratings
+
+![Screenshot 2025-04-14 134754](https://github.com/user-attachments/assets/3d7cee65-60b7-4386-8a40-e9fb1b70ebc7)
+
+Discount by Rating Category
+Discount values are fairly uniform across rating levels ( $29K–$30K)
+Insight: Discounts do not strongly influence customer satisfaction, customer service and delivery might be more important.
+
+#### Customer Call vs Satisfaction Rating
+![Screenshot 2025-04-14 134805](https://github.com/user-attachments/assets/2b150737-cec2-4a90-9d83-e5ae34bdb424)
+
+- Ratings like "Best" and "Good" are tied to fewer complaints
+- "Worst" and "Poor" ratings from customers had high call volumes
+ Insight: Poor ratings are linked to more service inquiries expected, but confirms dissatisfaction.
