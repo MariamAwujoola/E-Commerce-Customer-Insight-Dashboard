@@ -1,5 +1,8 @@
 # E-COMMERCE CUSTOMER INSIGHT DASHBOARD
 ---
+## Table of Content
+
+---
 ## Project Overview
 An international e-commerce company specializing in electronic products seeks to gain valuable insights from their customer database. The company aims to assess delivery performance, customer satisfaction, and operational efficiency.
 The dataset used for this analysis includes 10.999 obervatiions across 12 variables such as shipment mode, warehouse blocks, customer ratings, product cost, discount, gender, and delivery timeliness.
@@ -121,13 +124,13 @@ Insight: Discounts do not strongly influence customer satisfaction, customer ser
 
 
 #### Complaint Rate by Purcchase Group
-  ![Screenshot 2025-04-14 134820](https://github.com/user-attachments/assets/b4280097-4271-4b87-bf2a-5f47ec9cdf7a)
+ ![Screenshot 2025-04-14 134820](https://github.com/user-attachments/assets/b4280097-4271-4b87-bf2a-5f47ec9cdf7a)
 
 The purchase group are divided into 3 using their prior purchases
-Complaint Rate by Purchase Group
-High (Very Loyal) - 59.9% Complaint Rate
-Medium (Loyal) - 53.5%
-Low (Not Loyal) - 52.6%
+- Complaint Rate by Purchase Group
+- High (Very Loyal) - 59.9% Complaint Rate
+- Medium (Loyal) - 53.5%
+- Low (Not Loyal) - 52.6%
 
 Insight - The very loyal customers tend to complain the most, yet they continue making purchases and remain loyal. This could indicate that while they are dissatisfied with certain aspects of the service, they highly value the product and may not have found a suitable alternative.
 
@@ -140,7 +143,29 @@ Insight: The business has a balanced customer base, useful for targeting promoti
 
 #### Count of Purchase Group
 ![Screenshot 2025-04-14 134832](https://github.com/user-attachments/assets/99fd046e-e79b-43c1-865c-13db7c877afd)
+
 The purchase group are divided into 3 using their prior purchases
-The medium (Loyal) Customers have the most population, count of 7.4k, while the Low (Not Loyal) count is 2.6k
+-The medium (Loyal) Customers have the most population, count of 7.4k, while the Low (Not Loyal) count is 2.6k
 
 Insight - The High (High Prior Purchases) very loyal customers ranked the lowest, this might be because customers do not want to stay loyal to a company that does not satisfy them.
+
+### Recommendation 
+Improve Warehousing:
+- Prioritize operational review of Warehouse F and D
+- Introduce better inventory flow and staff performance KPIs
+
+Optimize Shipping Strategy:
+- Reduce road shipments for time sensitive items
+- Consider hybrid models using flight + local delivery
+
+Customer Support Enhancements:
+- Train staff to improve resolution rate (currently 50%)
+- Automate simple query resolution using chatbots
+
+Product Strategy:
+- Reprice high importance products to better reflect perceived value
+- Encourage repeat purchases through loyalty rewards
+
+Discount Personalization:
+- Instead of flat discounts, use rating and behavior-based offers
+- Measure impact of targeted discounts on satisfaction
