@@ -118,3 +118,29 @@ Insight: Discounts do not strongly influence customer satisfaction, customer ser
 - Ratings like "Best" and "Good" are tied to fewer complaints
 - "Worst" and "Poor" ratings from customers had high call volumes
  Insight: Poor ratings are linked to more service inquiries expected, but confirms dissatisfaction.
+
+
+#### Complaint Rate by Purcchase Group
+  ![Screenshot 2025-04-14 134820](https://github.com/user-attachments/assets/b4280097-4271-4b87-bf2a-5f47ec9cdf7a)
+
+The purchase group are divided into 3 using their prior purchases
+Complaint Rate by Purchase Group
+High (Very Loyal) - 59.9% Complaint Rate
+Medium (Loyal) - 53.5%
+Low (Not Loyal) - 52.6%
+
+Insight - The very loyal customers tend to complain the most, yet they continue making purchases and remain loyal. This could indicate that while they are dissatisfied with certain aspects of the service, they highly value the product and may not have found a suitable alternative.
+
+#### Total Orders by Gender
+![Screenshot 2025-04-14 134902](https://github.com/user-attachments/assets/a8a82331-2d54-4e9a-b05e-c5f2e99d97a3)
+
+Fairly even split: 50.41% Female, 49.59% Male
+Insight: The business has a balanced customer base, useful for targeting promotions equally.
+
+
+#### Count of Purchase Group
+![Screenshot 2025-04-14 134832](https://github.com/user-attachments/assets/99fd046e-e79b-43c1-865c-13db7c877afd)
+The purchase group are divided into 3 using their prior purchases
+The medium (Loyal) Customers have the most population, count of 7.4k, while the Low (Not Loyal) count is 2.6k
+
+Insight - The High (High Prior Purchases) very loyal customers ranked the lowest, this might be because customers do not want to stay loyal to a company that does not satisfy them.
