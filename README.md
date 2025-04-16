@@ -68,12 +68,31 @@ Insight: Low importance items drive volume; high importance products may be nich
 #### Impact of Warehouse Block on Shipping Duration 
 ![Screenshot 2025-04-14 134646](https://github.com/user-attachments/assets/6c4a134e-9758-4f78-afca-81e254524400)
 
-Warehouse F and D had the most late deliveries
-Warehouse C showed better performance (more on time deliveries)
+- Warehouse F and D had the most late deliveries
+- Warehouse C showed better performance (more on time deliveries)
+- Insight: Operational inefficiency may exist in specific warehouses.
 
-Insight: Operational inefficiency may exist in specific warehouses.
+#### Shipment Mode by Product weight
 
+![Screenshot 2025-04-14 134658](https://github.com/user-attachments/assets/8f2e15bc-5915-4b1a-9cf8-28b314f3f5e0)
 
-  
+Weight in Grams by Shipping Mode
+- Ship carries significantly heavier loads (27M grams)
+- Flight and Road carry 6M grams each
+Despite handling the heaviest shipments (27M grams), the Ship mode shows better delivery performance compared to Flight and Road. This suggests that shipping heavier products via Ship is more reliable, possibly due to bulk logistics optimization. In contrast, Flight and Road, though used for lighter loads, have higher delay rates indicating that delays may be due to operational inefficiencies rather than product weight.
+
+#### Shipment Mode vs Delivery Timeliness
+![Screenshot 2025-04-14 134708](https://github.com/user-attachments/assets/5d5a0f03-ffec-4687-ab85-cd036416c1e3)
+
+- Road had the highest percentage of late deliveries
+- Ship performed better but still had delays
+ Insight: Shipment method strongly influences delivery performance, Flight is not significantly faster.
+
+ #### Customer Call by Resolution Status
+![Screenshot 2025-04-14 134721](https://github.com/user-attachments/assets/b008a089-5172-493f-8ac8-055581dd1394)
+
+ Resolved vs Unresolved Calls
+- Calls are split 50/50 between resolved and unresolved
+- Insight: Equal distribution suggests a need for better resolution handling.
 
   
