@@ -1,8 +1,6 @@
 # E-COMMERCE CUSTOMER INSIGHT DASHBOARD
 ---
-## Table of Content
 
----
 ## Project Overview
 An international e-commerce company specializing in electronic products seeks to gain valuable insights from their customer database. The company aims to assess delivery performance, customer satisfaction, and operational efficiency.
 The dataset used for this analysis includes 10.999 obervatiions across 12 variables such as shipment mode, warehouse blocks, customer ratings, product cost, discount, gender, and delivery timeliness.
